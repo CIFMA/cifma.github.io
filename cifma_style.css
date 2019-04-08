@@ -1,6 +1,6 @@
 body{
 	font-family: Times New Roman;
-        background-color: #eeeeff
+        background-color: #ffeeee
 }
 
 body.home{
@@ -10,66 +10,66 @@ body.home{
 
 a.link {
    font-family: Times New Roman;
-   color:  #000099;
+   color:  #990000;
    text-decoration: underline
 }
 
 a.biglink {
    font-family: Times New Roman;
-   color:  #000099;
+   color:  #990000;
    font-size: 20pt;
    text-decoration: underline
 }
 
 #big-bright-on-dark {
         color: #ffffff;
-        background-color: #000099;
+        background-color: #990000;
         font-size: 20pt;
         font-weight: bold
 }
 
 #bright-on-dark {
         color: #ffffff;
-        background-color: #000099;
+        background-color: #990000;
         font-size: 18pt;
         font-weight: bold
 }
 
 #small-bright-on-dark {
         color: #ffffff;
-        background-color: #000099;
+        background-color: #990000;
         font-size: 14pt;
         font-weight: bold
 }
 
 #small-grey-on-dark {
         color: #cccccc;
-        background-color: #000099;
+        background-color: #990000;
         font-size: 14pt;
         font-weight: bold
 }
 
 #small-red-on-dark {
-        color: #dd0000;
+        color: #0000dd;
         font-size: 14pt;
         font-weight: bold
 }
 
 #small-dark-on-bright {
         color: #000099;
-        background-color: #eeeeff;
+        background-color: #ffeeee;
         font-size: 14pt;
         font-weight: bold
 }
 
 #big-dark {
-        color: #000099;
+        color: #990000;
         font-size: 24pt;
         font-weight: bold
 }
 
 #dark {
-        color: #000099;
+        color: #990000;
         font-size: 18pt;
         font-weight: bold
 }
@@ -81,7 +81,7 @@ a.biglink {
 }
 
 #small-dark {
-        color: #000099;
+        color: #990000;
         font-size: 14pt;
         font-weight: bold
 }
@@ -114,7 +114,7 @@ p.big, ul.big, td.big  {
 }
 
 td.menu-link {
-        background-color: #000099;
+        background-color: #990000;
         font-size: 16pt;
         font-weight: bold
 }
@@ -124,21 +124,21 @@ a.menu-link {
 }
 
 td.menu-curr {
-        color: #ffff88;
-        background-color: #000099;
+        color: #88ffff;
+        background-color: #990000;
         font-size: 16pt;
         font-weight: bold
 }
 
 td.menu-next {
-        color: #aa0000;
-        background-color: #000099;
+        color: #0000aa;
+        background-color: #990000;
         font-size: 16pt;
         font-weight: bold
 }
 
 td.menu-past {
-        background-color: #000099;
+        background-color: #990000;
         font-size: 16pt;
         font-weight: bold
 }
@@ -148,11 +148,11 @@ a.menu-past {
 }
 
 td.menu-spec {
-        background-color: #eeeeff;
+        background-color: #ffeeee;
         font-size: 16pt;
         font-weight: bold
 }
 
 a.menu-spec {
-        color: #000099;
+        color: #990000;
 }
