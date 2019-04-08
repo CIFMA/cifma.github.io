@@ -1,6 +1,6 @@
 body{
 	font-family: Times New Roman;
-        background-color: #ffffee
+        background-color: #fffeee
 }
 
 body.home{
@@ -50,14 +50,14 @@ a.biglink {
 }
 
 #small-red-on-dark {
-        color: #0000dd;
+        color: #dd0000;
         font-size: 14pt;
         font-weight: bold
 }
 
 #small-dark-on-bright {
         color: #000099;
-        background-color: #ffffee;
+        background-color: #fffeee;
         font-size: 14pt;
         font-weight: bold
 }
@@ -148,7 +148,7 @@ a.menu-past {
 }
 
 td.menu-spec {
-        background-color: #ffffee;
+        background-color: #fffeee;
         font-size: 16pt;
         font-weight: bold
 }
