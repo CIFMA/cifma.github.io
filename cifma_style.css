@@ -104,7 +104,7 @@ strong.text  {
 }
 
 strong.very  {
-        color: #000099;
+        color: #990000;
 }
 
 p.big, ul.big, td.big  {
@@ -131,7 +131,7 @@ td.menu-curr {
 }
 
 td.menu-next {
-        color: #0000aa;
+        color: #aa0000;
         background-color: #990000;
         font-size: 16pt;
         font-weight: bold
