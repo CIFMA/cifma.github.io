@@ -186,6 +186,7 @@ PROGRAM COMMITTEE
 
 * Oana Andrei, School of Computing Science, University of Glascow, UK
 * Luca Andrighetto, Department of Education Sciences, University of Genoa, Italy
+* Giovanna Broccia, Institute for Information Science and Technologies (CNT-ISTI), Italy
 * Ana Cavalcanti, Department of Computer Science, University of York, UK
 * Antonio Cerone, Department of Computer Science,
   Nazarbayev University, Kazakhstan (Co-chair)
@@ -209,6 +210,7 @@ PROGRAM COMMITTEE
 * Marcello Passarelli, Institute for Educational Technologies (CNT-ITD), Italy
 * Ahti-Veikko Pietarinen, Department of History, Philosophy and Religious Studies,
   Nazarbayev University, Kazakhstan
+* Peter Ölveczky, Department of Informatics, University of Oslo, Norway
 * Ka I Pun, Department of Computing, Mathematics and Physics,
   Western Norway University of Applied Sciences, Norway
 * Anara Sandygulova, Department of Robotics and Mechatronics,
