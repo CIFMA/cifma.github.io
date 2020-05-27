@@ -223,7 +223,7 @@ Pedro Quaresma, Department of Mathematics, University of Coimbra, Portugal
 
 
 -----------------------------------------------------------------------------------
-PROGRAM COMMITTEE
+PROGRAM COMMITTEE (provisonal)
 -----------------------------------------------------------------------------------
 
 Samuel Alexander, The U.S. Securities and Exchange Commission New York Regional Office, USA 
@@ -231,6 +231,7 @@ Oana Andrei, University of Glasgow, UK
 José Creissac Campos, University of Minho, Portugal
 Antonio Cerone, Nazarbayev University, Kazakhstan
 Peter Chapman, Edinburgh Napier University, UK
+Luisa Damiano, University of Messina, Italy
 Anke Dittmar, Universität Rostock, Germany
 Pierluigi Graziani, University of Urbino, Italy
 Karl Reiner Lermer, Zurich University of Applied Sciences, Switzerland
@@ -238,6 +239,7 @@ Kathy Malone, Nazarbayev University, Kazakhstan
 Paolo Masci, National Institute of Aerospace, USA
 Paolo Milazzo, University of Pisa, Italy
 Henry Muccini, University of L’Aquila, Italy
+Eugenio Omodeo, University of Trieste, Italy
 Graham Pluck, Nazarbayev University, Kazakhstan
 Giuseppe Primiero, University of Milan, Italy
 Pedro Quaresma, University of Coimbra, Portugal
