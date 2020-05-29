@@ -114,7 +114,7 @@ There are six categories of submissions
 
 * Tool Demonstration papers:
   to demonstrate the tool workflow(s) and human interaction aspects, and evaluate
-  the overall role of the tool and impact to cognitive science.
+  the overall role of the tool and impact on cognitive science.
 
 Contributions will be in the form of
 
