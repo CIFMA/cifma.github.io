@@ -52,10 +52,10 @@ systems, virtual worlds and robots. This fact has expanded the scope of studying
 cognition to a large number of disciplines well beyond psychology.
 Cognitive processes are analysed from different perspectives within different
 contexts, notably in the fields of linguistics, anesthesia, neuroscience, psychiatry,
-psychology, education, philosophy, anthropology, linguistics, biology, systemics,
-logic, and computer science. These and other different approaches to the analysis
-of cognition are synthesised in the developing field of cognitive science, a
-progressively autonomous academic discipline.
+psychology, education, philosophy, anthropology, biology, systemics, logic, and
+computer science. These and other different approaches to the analysis of cognition
+are synthesised in the developing field of cognitive science, a progressively
+autonomous academic discipline.
 
 The objectives of this new international workshop are:
 
@@ -234,6 +234,8 @@ Peter Chapman, Edinburgh Napier University, UK
 Luisa Damiano, University of Messina, Italy
 Anke Dittmar, Universität Rostock, Germany
 Pierluigi Graziani, University of Urbino, Italy
+Yannis Haralambous, IMT Atlantique, France
+Reinhard Kahle, NOVA University Lisbon, Portugal
 Karl Reiner Lermer, Zurich University of Applied Sciences, Switzerland
 Kathy Malone, Nazarbayev University, Kazakhstan
 Paolo Masci, National Institute of Aerospace, USA
