@@ -227,7 +227,8 @@ PROGRAM COMMITTEE (provisonal)
 -----------------------------------------------------------------------------------
 
 Samuel Alexander, The U.S. Securities and Exchange Commission New York Regional Office, USA 
-Oana Andrei, University of Glasgow, UK 
+Oana Andrei, University of Glasgow, UK
+John A. Barnden, University of Birmingham, UK
 José Creissac Campos, University of Minho, Portugal
 Antonio Cerone, Nazarbayev University, Kazakhstan
 Peter Chapman, Edinburgh Napier University, UK
