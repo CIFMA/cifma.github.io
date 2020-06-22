@@ -79,6 +79,8 @@ Johan van Benthem
 Institute for Logic, Language and Computation (ILLC), University of Amsterdam
 Amsterdam, The Netherlands
 
+Title: "Interfacing Logical Theory and Human Practice"
+
 
 -----------------------------------------------------------------------------------
 SUBMISSION GUIDELINES
@@ -236,6 +238,7 @@ Luisa Damiano, University of Messina, Italy
 Anke Dittmar, Universität Rostock, Germany
 Pierluigi Graziani, University of Urbino, Italy
 Yannis Haralambous, IMT Atlantique, France
+Bipin Indurkhya, Jagiellonian University, Poland
 Reinhard Kahle, NOVA University Lisbon, Portugal
 Karl Reiner Lermer, Zurich University of Applied Sciences, Switzerland
 Kathy Malone, Nazarbayev University, Kazakhstan
