@@ -2,7 +2,7 @@
 [Apologies for cross-posting]
 
 -----------------------------------------------------------------------------------
-Call for Papers
+Call for Papers - EXTENDED DEADLINES
 
 ============
  CIFMA 2020
@@ -34,8 +34,8 @@ e.g., live presentations and/or recorded ones.
 IMPORTANT DATES
 
 Submission link: https://easychair.org/conferences/?conf=cifma2020
-Paper Abstract Submission deadline:	  Wednesday 8 July 2020
-Paper Submission deadline:	          Wednesday 15 July 2020
+Paper Abstract Submission deadline:	  Wednesday 22 July 2020 (EXTENDED)
+Paper Submission deadline:	          Wednesday 29 July 2020 (EXTENDED)
 Accept/Reject Notification:	          Wednesday 26 August 2020
 Pre-proceedings Final version due:	  Monday 7 September 2020
 -----------------------------------------------------------------------------------
@@ -238,6 +238,7 @@ Luisa Damiano, University of Messina, Italy
 Anke Dittmar, Universität Rostock, Germany
 Pierluigi Graziani, University of Urbino, Italy
 Yannis Haralambous, IMT Atlantique, France
+Matej Hoffmann, CTU Prague, Czech Republic
 Bipin Indurkhya, Jagiellonian University, Poland
 Reinhard Kahle, NOVA University Lisbon, Portugal
 Karl Reiner Lermer, Zurich University of Applied Sciences, Switzerland
