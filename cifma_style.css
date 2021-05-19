@@ -28,6 +28,13 @@ a.biglink {
         font-weight: bold
 }
 
+#big-warning {
+        color: #000000;
+        background-color: #009999;
+        font-size: 20pt;
+        font-weight: bold
+}
+
 #bright-on-dark {
         color: #ffffff;
         background-color: #990000;
