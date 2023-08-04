@@ -1,0 +1,249 @@
+C I F M A - 2 0 2 3
+
+5th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications
+
+7 November 2023
+
+Co-located with SEFM 2023 at TU/e (Eindhoven, The Netherlands)
+
+
+website: <https://cifma.github.io/>
+
+
+=== IMPORTANT DATES ===
+
+
+Paper Submission deadline: 8 September 2023 (AOE)
+
+Notification: 6 October 2023
+
+Pre-proceedings final version due: 23 October 2023
+
+
+=== BACKGROUND AND OBJECTIVES ===
+
+
+Cognition encompasses many aspects of intellectual functions and processes such as attention, knowledge, memory, judgment, reasoning, problem solving, decision making, comprehension and production of language. Although it originated from the field of psychology, it goes beyond the individual human mind and behaviour, and involves and affects the interaction with the environment in which humans act. The increasing complexity of the environment with which humans interact is no longer restricted to their natural living environment and the other humans populating it, but includes a large technological support consisting of physical and computational systems, virtual worlds and robots. This fact has expanded the scope of studying cognition to a large number of disciplines well beyond psychology. Cognitive processes are analysed from different perspectives within different contexts, notably in the fields of linguistics, neuroscience, psychiatry, psychology, education, philosophy, anthropology, linguistics, biology, systemics, logic, and computer science. These and other different approaches to the analysis of cognition are synthesised in the developing field of cognitive science, a progressively autonomous academic discipline.
+
+
+The objectives of CIFMA are:
+
+
+(1) to bring together practitioners and researchers from academia, industry and research institutions who are interested in the foundations and applications of cognition from the perspective of their areas of expertise and aim at a synergistic effort in integrating approaches from different areas;
+
+(2) to nurture cooperation among researchers from different areas and establish concrete collaborations;
+
+(3) to present formal methods to cognitive scientists as a general modelling and analysis approach, whose effectiveness goes well beyond its application to computer science and software engineering.
+
+
+=== TOPICS ===
+
+
+Contributions to the workshop cover the areas of education, research and technology, either in general or with a focus on formal methods. Topics are organised in possibly overlapping categories and include, but are not restricted to:
+
+
+Interdisciplinary Foundations of Cognition:
+
+philosophy of cognition
+
+human memory and memory processes
+
+attention
+
+perception, visual cognition and situated cognition
+
+cognitive models and architectures
+
+languages for cognitive science
+
+social cognition
+
+
+Cognitive Robotics:
+
+autonomous knowledge acquisition
+
+motor babbling
+
+learning by imitation
+
+cognitive architectures for robotics
+
+Cognitive Linguistics:
+
+cognitive approaches to grammar
+
+cognitive and conceptual semantics
+
+conceptual organisation
+
+cognitive phonology
+
+dynamical models of language acquisition
+
+computational models of metaphor and language acquisition
+
+
+Cognitive Learning:
+
+learning theories
+
+cognitive development
+
+problem solving
+
+metacognition
+
+
+Cognitive Neuroscience and Medicine:
+
+biomedical signal and image processing
+
+biomedical sensors and wearable systems
+
+brain-computer interfaces and neural prostheses
+
+brain mapping
+
+neural and rehabilitation engineering
+
+
+Logics and their application to:
+
+human-computer interaction
+
+human behaviour
+
+human reasoning and problem solving
+
+visual reasoning
+
+human-robot interaction
+
+linguistics
+
+
+Cognitive computing:
+
+artificial neural networks
+
+human behaviour
+
+cognitive analytics
+
+human cognitive augmentation
+
+cognitive computing hardware
+
+AI cognitive systems
+
+
+Cognition and software engineering:
+
+integration of cognitive models and cognitive architectures within the software design and verification process
+
+cognitive aspects in cyber-physical systems and their verification
+
+socio-technical systems
+
+cognitive aspects in safety analysis and verification of safety-critical systems
+
+cognitive security
+
+cognition hacking
+
+
+Cognition and formal methods:
+
+formal frameworks for trust reasoning
+
+formal methods for the modeling and analysis of robotic systems
+
+formal methods for the modeling and analysis of human behaviour
+
+formal methods for the modeling and analysis of human interaction with computers and robots
+
+application of formal methods to cognitive psychology
+
+formal frameworks for trust reasoning
+
+
+=== SUBMISSION ===
+
+
+Link: https://easychair.org/conferences/?conf=cifma2023
+
+
+Authors are invited to submit, via the above Easychair link, their contributions, which must be written in English according to one of the two categories described below.
+
+
+Submissions must be prepared as a PDF using the Springer’s LNCS style available at http://www.springer.de/comp/lncs/authors.html. Submissions not adhering to the specified constraints of their respective category may be rejected without review (cf. IFIP's Author Code of Conduct)
+
+
+CIFMA accepts contributions in two categories:
+
+
+Full papers describe thorough research results and must report on original, unpublished work, not submitted for publication elsewhere. The page limit is 15 (+ 2 pages references).
+
+
+Short papers report on:
+
+- original ideas and ongoing work, possibly in an early form and without supporting evidence;
+
+- previously published results, for their discussion and to offer CIFMA attendees a richer program and further opportunities for interaction.
+
+The page limit is 8 (+ 2 pages references). Short paper submissions must be marked as such in the submission’s title.
+
+
+Submissions of both categories must be in the scope of CIFMA and can be one of the following, subject to the above category constraints:
+
+
+- Research papers: to present the analysis, interpretation, and validation of research findings.
+
+- Position papers: to present innovative, arguable ideas, opinions or frameworks which are likely to foster discussion at the workshop.
+
+- Interdisciplinary project papers: to describe a new interdisciplinary research project, or the status of an ongoing project or the outcomes of a recently completed project.
+
+- Case study papers: to report on case studies, preferably in a real-world setting.
+
+- Tool papers: to present a new tool, a new tool component or novel extensions to an existing tool.
+
+- Tool demonstration papers: to demonstrate the tool workflow(s) and human interaction aspects, and evaluate the overall role of the tool and impact on cognitive science.
+
+All the accepted papers will be included in the workshop programme and will appear in the workshop informal pre-proceedings, which will be available online before the workshop. They must be presented at the workshop by at least one author.
+
+
+=== PUBLICATION ===
+
+
+All accepted full papers will be published in the CIFMA 2023 formal post-proceedings, which will appear in the Springer LNCS-IFIP volume series (http://www.springer.com/lncs). The accepted short papers that satisfy the originality criterion are conditionally accepted for publication in the post-proceedings. Their authors will be invited to prepare a final version taking into account the feedback received after the presentation, and to submit them as full papers for a second round of reviews. Condition for inclusion in the post-proceedings is that at least one of the authors has presented the paper at the workshop.
+
+
+=== PROGRAM CHAIR ===
+
+
+ALESSANDRO ALDINI
+
+Department of Pure and Applied Sciences, University of Urbino, Italy.
+
+
+=== PUBLICITY CHAIR AND WEBMASTER ===
+
+
+PIERLUIGI GRAZIANI
+
+Department of Pure and Applied Sciences, University of Urbino, Italy.
+
+
+=== KEYNOTE SPEAKER ===
+
+
+DAVIDE GROSSI 
+
+Faculty of Science and Engineering Artificial Intelligence, Bernoulli Institute, University of Groningen, The Netherlands.
+
+
+=== CONTACT ===
+
+
+For any issue, please contact <cifma2023@easychair.org>
