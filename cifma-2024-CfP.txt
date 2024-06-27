@@ -10,9 +10,7 @@ Website: https://cifma.github.io/
 
 
 === IMPORTANT DATES ===
-
 Paper Submission deadline: Saturday 14 September, 2024 (AoE)
-
 Notification: Saturday 12 October, 2024
 
 
@@ -21,11 +19,8 @@ Notification: Saturday 12 October, 2024
 Cognition encompasses many aspects of intellectual functions and processes such as attention, knowledge, memory, judgment, reasoning, problem solving, decision making, comprehension and production of language. Although it originated from the field of psychology, it goes beyond the individual human mind and behaviour, and involves and affects the interaction with the environment in which humans act. The increasing complexity of the environment with which humans interact is no longer restricted to their natural living environment and the other humans populating it, but includes a large technological support consisting of physical and computational systems, virtual worlds and robots. This fact has expanded the scope of studying cognition to a large number of disciplines well beyond psychology. Cognitive processes are analysed from different perspectives within different contexts, notably in the fields of linguistics, neuroscience, psychiatry, psychology, education, philosophy, anthropology, linguistics, biology, systemics, logic, and computer science. These and other different approaches to the analysis of cognition are synthesised in the developing field of cognitive science, a progressively autonomous academic discipline.
 
 The objectives of CIFMA are:
-
 (1) to bring together practitioners and researchers from academia, industry and research institutions who are interested in the foundations and applications of cognition from the perspective of their areas of expertise and aim at a synergistic effort in integrating approaches from different areas;
-
 (2) to nurture cooperation among researchers from different areas and establish concrete collaborations;
-
 (3) to present formal methods to cognitive scientists as a general modelling and analysis approach, whose effectiveness goes well beyond its application to computer science and software engineering.
 
 
