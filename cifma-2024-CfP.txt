@@ -105,7 +105,7 @@ Authors are invited to submit, via Easychair, research contributions or experien
 
 All papers should be written in English and prepared using the specific LNCS templates available at http://www.springer.de/comp/lncs/authors.html. Submissions are required to report on original, unpublished work and should not be submitted simultaneously for publication elsewhere (cf. IFIP's Author Code of Conduct)
 
-There are six categories of submissions
+There are six categories of submissions:
 - Research papers, to present original research and the analysis, interpretation and validation of the research findings.
 - Position papers, to present innovative, arguable ideas, opinions or frameworks which are likely to foster discussion at the workshop.
 - Interdisciplinary Project papers, to describe a new interdisciplinary research project, or the status of an ongoing project or the outcomes of a recently completed project.
@@ -113,15 +113,15 @@ There are six categories of submissions
 - Tool papers, to present a new tool, a new tool component or novel extensions to an existing tool.
 - Tool Demonstration papers, to demonstrate the tool workflow(s) and human interaction aspects, and evaluate the overall role of the tool and impact on cognitive science.
 - Progress paper, to discuss the progress status of works presented at previous editions of CIFMA. 
+
 Please make sure you write the paper category (Research paper, Position paper, Interdisciplinary Project paper, Case Study paper, Tool paper, Tool Demonstration paper, Progress paper) somewhere in the abstract on Easychair (e.g. "This Research paper ...").
 
 Contributions will be in the form of
 - Regular papers, between 12 and 15 pages except references for submission (and between 12 and 17 pages except references for post-proceedings camera-ready).
 - Short papers, between 6 and 8 pages except references for submission (and between 6 and 9 pages except references for post-proceedings camera-ready).
 - Presentations, extended abstract up to 4 pages, which will be included in the pre-proceeding but not published in the post-proceedings.
-"Short papers" and "Presentations" may discuss new ideas which are at an early stage of development and which have not yet been thoroughly evaluated.
 
-The program committee may reject papers that are outside these lengths on the grounds of length alone.
+"Short papers" and "Presentations" may discuss new ideas which are at an early stage of development and which have not yet been thoroughly evaluated. The program committee may reject papers that are outside these lengths on the grounds of length alone.
 
 Submitted papers will be refereed for quality, correctness, originality and relevance. Notification and reviews will be communicated via email. Accepted papers (both Full papers and Short papers) will be included in the workshop programme and will appear in the workshop pre-proceedings as well as in the LNCS post-proceedings. Pre-proceedings will be available online before the Workshop. The authors of accepted Short papers may opt to extend their contributions to Regular paper to be published in the LNCS post-proceedings by going through a second review phase after the workshop.
 
