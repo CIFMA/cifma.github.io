@@ -1,0 +1,107 @@
+Call for Papers – CIFMA 2025
+-----------------------------
+
+International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications
+11 November 2025, Toledo, Spain (Co-located with SEFM 2025)
+Background and Objectives
+Cognition encompasses a wide range of intellectual functions and processes such as attention, memory, reasoning, problem solving, decision making, and language comprehension and production. Although rooted in psychology, the study of cognition now spans a wide array of disciplines, driven by the increasing complexity of human interaction with technological systems, virtual environments, and intelligent machines.
+ 
+CIFMA 2025 (https://cifma.github.io/) aims to provide a collaborative forum for researchers and practitioners from academia, industry, and research institutions who are interested in the foundations and applications of cognition. The workshop encourages interdisciplinary dialogue and concrete collaborations between fields such as computer science, logic, neuroscience, linguistics, cognitive robotics, philosophy, and more.
+The workshop specifically promotes the use of formal methods as a unifying approach to model and analyze cognitive systems and processes, extending well beyond their traditional use in software engineering.
+Contributions to the workshop cover the areas of education, research and technology, either in general or with a focus on formal methods. Topics are organized in possibly overlapping categories and include, but are not restricted to:
+ 
+Interdisciplinary Foundations of Cognition:
+philosophy of cognition
+human memory and memory processes
+attention
+perception, visual cognition and situated cognition
+cognitive models and architectures
+languages for cognitive science
+social cognition
+Cognitive Robotics:
+autonomous knowledge acquisition
+motor babbling
+learning by imitation
+cognitive architectures for robotics
+Cognitive Linguistics:
+cognitive approaches to grammar
+cognitive and conceptual semantics
+cognitive phonology
+dynamical models of language acquisition
+computational models of metaphor and language acquisition
+corpus linguistics and conversational data
+Cognitive Learning:
+learning theories
+cognitive development
+problem solving
+metacognition
+Cognitive Neuroscience and Medicine:
+biomedical signal and image processing
+biomedical sensors and wearable systems
+brain-computer interfaces and neural prostheses
+brain mapping
+neural and rehabilitation engineering
+Logics and their application to:
+human-computer interaction
+human behaviour
+human reasoning and problem solving
+visual reasoning
+human-robot interaction
+linguistics
+Cognitive computing:
+artificial neural networks
+human behaviour
+cognitive analytics
+human cognitive augmentation
+cognitive computing hardware
+AI cognitive systems
+Cognition and software engineering:
+integration of cognitive models and cognitive architectures within the software design and verification process
+cognitive aspects in cyber-physical systems and their verification
+socio-technical systems
+cognitive aspects in safety analysis and verification of safety-critical systems
+cognitive security
+cognition hacking
+Cognition and formal methods:
+formal frameworks for trust reasoning
+formal methods for the modeling and analysis of robotic systems
+formal methods for the modeling and analysis of human behaviour
+formal methods for the modeling and analysis of human interaction with computers and robots
+application of formal methods to cognitive psychology
+formal frameworks for trust reasoning
+ 
+Submission Categories
+We welcome original, unpublished contributions in the following categories:
+Research papers: novel results with formal analysis and discussion
+Position papers: provocative and innovative ideas or frameworks
+Case Study papers: real-world applications and lessons learned.
+Tool papers: description and evaluation of tools or components
+ 
+Please indicate the paper category clearly in the EasyChair submission abstract (e.g., “This Research paper...”)
+
+Submission Guidelines
+Regular papers: 12–15 pages (LNCS format, references excluded); 12–16 pages for final post-proceedings
+Short papers: 6–8 pages; 6–9 pages for final post-proceedings
+Presentations: extended abstracts (up to 4 pages), included in pre-proceedings only
+All submissions must be in English and formatted using the LNCS templates available at:
+LNCS Guidelines
+Submissions must be made via EasyChair:
+https://checkpoint.url-protection.com/v1/r02/url?o=https%3A//easychair.org/conferences%3Fconf%3Dcifma2025&g=Y2RmMzMxMzgzNWZhNzUzZA==&h=OGVlMTE2ODM1MzRhMGQ4ZTExYjY1N2ZkNjFiNzI3OWI2MzA5NTBjYmM3YTVhN2UyNzBmYmYzOTZjNDM1MmIzYg==&p=YzJlOm5hemFyYmF5ZXZ1bml2ZXJzaXR5OmM6Zzo1ODk0ODZiOWFiNWVmYTUzMTZiZDYzMmIxNTNiNmM3YTo3OnQ6VA==
+All contributions will be peer-reviewed for originality, significance, clarity, and relevance. Papers outside the page limits may be desk-rejected.
+Important Dates
+Paper Submission Deadline: Wednesday, 3 September 2025
+Notification of Acceptance: Wednesday, 15 October 2025
+Pre-proceedings Final Version Due: Monday, 3 November 2025
+Post-proceedings Final Version (LNCS): TBA
+Proceedings and Publication
+Accepted full and short papers will be published in the Lecture Notes in Computer Science (LNCS) series by Springer.
+Inclusion in the LNCS volume requires that at least one co-author registers and presents the work at the workshop.
+A special issue in a relevant journal may be planned, depending on submission quality and volume.
+Program Chairs
+Francesco Bianchini, University of Bologna, Italy
+Arianna Pavone, University of Palermo, Italy
+ 
+Info: francesco.bianchini@unibo.it; ariannamaria.pavone@unipa.it
+ 
+Website: https://cifma.github.io/
+ 
