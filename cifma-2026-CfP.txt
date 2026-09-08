@@ -9,7 +9,9 @@ Website: https://cifma.github.io/
 Keynote speaker
 ---
 Prof. Dr. Martin V. Butz (University of Tübingen)
-Title and abstract TBA
+Contextualizing Predictive Minds and Machines
+
+Nearly 50 years ago, Allen Newell proposed a largely overlooked Problem Space Hypothesis, which suggests that the problem space is the fundamental organizational unit of all human goal-oriented symbolic activity. In recent years, it has been suggested that humans construct their own contexts or contextual frames to be able to focus on the task at hand. I will provide some intuition for these propositions. Then, I will introduce a novel active inference architecture that shows the relevance of a suitable problem space, that is, a contextual frame, for modeling human behavior. This model derives structural learning, structural selection, structural parametrization, and planning as inference processes. The objective is always the same: to minimize anticipated surprise. Considering challenging reasoning tasks, such as the Abstraction and Reasoning Corpus (ARC) Challenge, I will finally propose how human problem solving may emerge and may be designed (by evolution) to reach goals in diverse but locally stable environmental contexts, maximally flexibly and effortlessly.
 
 Background and Objectives
 ---
@@ -121,8 +123,8 @@ All contributions will be peer-reviewed for originality, significance, clarity, 
 
 Important Dates
 ---
-Abstract Submission Deadline: 8 September 2026
-Paper Submission Deadline: 13 September 2026
+Abstract Submission Deadline: 15 September 2026 (extended from 8 September 2026)
+Paper Submission Deadline: 20 September 2026 (extended from 13 September 2026)
 Notification of Acceptance: 16 October 2026
 Pre-proceedings Final Version Due: TBA
 Post-proceedings Final Version (LNCS): TBA
