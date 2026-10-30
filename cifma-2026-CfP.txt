@@ -105,9 +105,9 @@ We welcome original, unpublished contributions in the following categories:
 Please indicate the paper category clearly in the EasyChair submission abstract (e.g., "This Research paper...")
 
 Submission Guidelines
-Regular papers: 12–15 pages (LNCS format, references excluded); 12–16 pages for final post-proceedings
+Regular papers: 12–15 pages for submission (LNCS format, references excluded); 17 pages of content, plus 2 pages for references, for the final post-proceedings camera-ready version
 
-Short papers: 6–8 pages; 6–9 pages for final post-proceedings
+Short papers: 6–8 pages for submission; 8 pages of content, plus 2 pages for references, for the final post-proceedings camera-ready version
 
 Presentations: extended abstracts (up to 4 pages), included in pre-proceedings only
 
@@ -126,8 +126,8 @@ Important Dates
 Abstract Submission Deadline: 15 September 2026 (extended from 8 September 2026)
 Paper Submission Deadline: 20 September 2026 (extended from 13 September 2026)
 Notification of Acceptance: 16 October 2026
-Pre-proceedings Final Version Due: TBA
-Post-proceedings Final Version (LNCS): TBA
+Pre-proceedings Final Version Due: 10 November 2026
+Post-proceedings Final Version (LNCS): 15 December 2026
 
 Proceedings and Publication
 ---
